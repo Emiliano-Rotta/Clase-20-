@@ -69,7 +69,7 @@
 // }, [])
 // console.log (metodoReduce)
 
-Ejercicio de Rick and morty con find
+// Ejercicio de Rick and morty con find
 
 const todos = document.getElementById("todos")
 const mujeres = document.getElementById("mujeres")
